@@ -1,0 +1,36 @@
+{
+  "Name":"Grayce Lemke",
+  "ProfileIamge":"https://randomuser.me/api/portraits/thumb/women/34.jpg",
+  "Notification":"Yes",
+  "Address":"Kimberly Gardens, London",
+  "Aminities":[
+    {
+      "Icon":"https://randomuser.me/api/portraits/thumb/men/50.jpg",
+      "Title":"Desk & floor 9, FIN-AB-64"
+    },
+     {
+      "Icon":"https://randomuser.me/api/portraits/thumb/men/50.jpg",
+      "Title":"Cycle Stand 4"
+    },
+     {
+      "Icon":"https://randomuser.me/api/portraits/thumb/men/50.jpg",
+      "Title":"Locker 26"
+    }
+    
+    ],
+    "Occupancy":[
+      {
+        "Today":"10",
+        "Previous":"20"
+      },
+      {
+        "Today":"20",
+        "Previous":"30"
+      },
+      {
+        "Today":"20",
+        "Previous":"50"
+      }
+      ]
+    
+}
